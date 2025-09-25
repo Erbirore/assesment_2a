@@ -4,8 +4,8 @@ units_count= len(course_units)
 
 print(units_count)
 
-african_animals=["zebra", "elephant", "lion", "rhino", "hippo"]
+african_animals=["zebra", "elephant", "lion","rhino", "cat"]
 
-african_animals.append("cheetah")
+african_animals.append("snake")
 
 print(african_animals)
